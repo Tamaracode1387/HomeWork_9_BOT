@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f87ae5ac-6364-4be2-b54d-3d116dde914e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/files/task_1_cross-zero.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../homework_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_7/add_.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_7/add_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_7/database.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_7/database.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_7/import_.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_7/import_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_7/info1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_7/info1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_7/info2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_7/info2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_7/read_.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_7/read_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_7/start_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_7/start_bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_bott1/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_bott1/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_bott1/log.csv" beforeDir="false" afterPath="$PROJECT_DIR$/calculator_bott1/log.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tele_direct_bot/add_.py" beforeDir="false" afterPath="$PROJECT_DIR$/tele_direct_bot/add_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tele_direct_bot/database.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tele_direct_bot/database.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tele_direct_bot/export_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tele_direct_bot/import.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tele_direct_bot/import.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tele_direct_bot/import_.py" beforeDir="false" afterPath="$PROJECT_DIR$/tele_direct_bot/import_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tele_direct_bot/start_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/tele_direct_bot/start_bot.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,11 +49,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/chood/OneDrive/Рабочий стол/GB-ПРОГРАММИСТ/Знакомство с языком Python/HomeWorkPython/homework_9/calculator_bot",
+    "last_opened_file_path": "C:/Users/chood/OneDrive/Рабочий стол/GB-ПРОГРАММИСТ/Знакомство с языком Python/HomeWorkPython/homework_9",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.user_interface">
     <configuration name="calcul_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework_9" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,6 +117,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="start_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework_9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tele_direct_bot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tele_direct_bot/start_bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="task_1_cross-zero" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework_9" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,8 +159,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="user_interface" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework_9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/calculator_bott1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculator_bott1/user_interface.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.user_interface" />
+        <item itemvalue="Python.start_bot" />
         <item itemvalue="Python.calcul_bot" />
         <item itemvalue="Python.task_1_cross-zero" />
         <item itemvalue="Python.homework_5" />
